@@ -1,0 +1,18 @@
+.nav {
+    grid-area: nav;
+    background-color: cornflowerblue;
+}
+
+.item {
+    color: white;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.active {
+    color: gold;
+}
+
+ul {
+    list-style: none;
+}
